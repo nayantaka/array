@@ -1,0 +1,9 @@
+Buat data array nilai mahasiswa sbb :
+ Nim : 15.01.55.1234
+ Nama : Joni 
+ Nilai : array (UTS 70 (ujian 40, tugas 20, presensi 10), UAS 80 (ujian 60, tugas 10, presensi 10))
+ Nilai Akhir = (UTS + UAS) / 2
+ 
+ Tampilkan data array nilai mahasiswa tersebut
+ 
+ 
